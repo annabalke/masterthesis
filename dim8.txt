@@ -1,12 +1,12 @@
 all representatives from the infinite families in dimension 8
 
 
-Representative of class 1 (size 3, inverse, fam6/7, PengTanWang): y^254
+Representative of class 1 (size 3): y^254
 
-Representative of class 2 (size 30, ZhaHuSun1, ZhaHuSunShan): y^254 + y^240 + y^225 + y^210 + y^195 +
+Representative of class 2 (size 30): y^254 + y^240 + y^225 + y^210 + y^195 +
 y^180 + y^165 + y^150 + y^135 + y^120 + y^105 + y^90 + y^75 + y^60 + y^45 + y^30 + y^15 
 
-Representative of class 3 (size 9, ZhaHuSun1, ZhaHuSunShan): y^254 + y^252 + y^249 + y^246 + y^243 +
+Representative of class 3 (size 9): y^254 + y^252 + y^249 + y^246 + y^243 +
 y^240 + y^237 + y^234 + y^231 + y^228 + y^225 + y^222 + y^219 + y^216 + y^213 +
 y^210 + y^207 + y^204 + y^201 + y^198 + y^195 + y^192 + y^189 + y^186 + y^183 +
 y^180 + y^177 + y^174 + y^171 + y^168 + y^165 + y^162 + y^159 + y^156 + y^153 +
@@ -105,7 +105,7 @@ a^101*y^14 + a^152*y^13 + a^29*y^12 + a^251*y^11 + a^201*y^10 + a^117*y^9 +
 a^16*y^8 + a^192*y^7 + a^82*y^6 + a^165*y^5 + a^31*y^4 + a^252*y^3 + a^181*y^2 +
 a^9*y + a^7
 
-Representative of class 4 (size 15, PengTan2): y^254 + y^252 + y^250 + y^248 + y^246 +
+Representative of class 4 (size 15): y^254 + y^252 + y^250 + y^248 + y^246 +
 y^244 + y^242 + y^237 + y^235 + y^233 + y^231 + y^229 + y^227 + y^222 + y^220 +
 y^218 + y^216 + y^214 + y^212 + y^207 + y^205 + y^203 + y^201 + y^199 + y^197 +
 y^192 + y^190 + y^188 + y^186 + y^184 + y^182 + y^177 + y^175 + y^173 + y^171 +
@@ -117,7 +117,7 @@ y^66 + y^64 + y^62 + y^57 + y^55 + y^53 + y^51 + y^49 + y^47 + y^42 + y^40 +
 y^38 + y^36 + y^34 + y^32 + y^27 + y^25 + y^23 + y^21 + y^19 + y^17 + y^12 +
 y^10 + y^8 + y^6 + y^4 + y^2
 
-Representative of class 5 (size 60, PengTan2): a^17*y^254 + a^17*y^252 + a^17*y^250 +
+Representative of class 5 (size 60): a^17*y^254 + a^17*y^252 + a^17*y^250 +
 a^17*y^248 + a^17*y^246 + a^17*y^244 + a^17*y^242 + a^68*y^240 + a^17*y^237 +
 a^17*y^235 + a^17*y^233 + a^17*y^231 + a^17*y^229 + a^17*y^227 + a^68*y^225 +
 a^17*y^222 + a^17*y^220 + a^17*y^218 + a^17*y^216 + a^17*y^214 + a^17*y^212 +
@@ -139,7 +139,7 @@ a^68*y^30 + a^17*y^27 + a^17*y^25 + a^17*y^23 + a^17*y^21 + a^17*y^19 +
 a^17*y^17 + a^68*y^15 + a^17*y^12 + a^17*y^10 + a^17*y^8 + a^17*y^6 + a^17*y^4 +
 a^17*y^2 + a^68
 
-Representative of class 6 (size 60, PengTan2): a^51*y^254 + a^51*y^252 + a^51*y^250 +
+Representative of class 6 (size 60): a^51*y^254 + a^51*y^252 + a^51*y^250 +
 a^51*y^248 + a^51*y^246 + a^51*y^244 + a^51*y^242 + a^238*y^240 + a^51*y^237 +
 a^51*y^235 + a^51*y^233 + a^51*y^231 + a^51*y^229 + a^51*y^227 + a^238*y^225 +
 a^51*y^222 + a^51*y^220 + a^51*y^218 + a^51*y^216 + a^51*y^214 + a^51*y^212 +
@@ -160,7 +160,7 @@ a^51*y^42 + a^51*y^40 + a^51*y^38 + a^51*y^36 + a^51*y^34 + a^51*y^32 +
 a^238*y^30 + a^51*y^27 + a^51*y^25 + a^51*y^23 + a^51*y^21 + a^51*y^19 +
 a^51*y^17 + a^238*y^15 + a^51*y^12 + a^51*y^10 + a^51*y^8 + a^51*y^6 + a^51*y^4 + a^51*y^2 + a^238
 
-Representative of class 7 (size 30, PengTan2): a^85*y^254 + a^85*y^252 + a^85*y^250 +
+Representative of class 7 (size 30): a^85*y^254 + a^85*y^252 + a^85*y^250 +
 a^85*y^248 + a^85*y^246 + a^85*y^244 + a^85*y^242 + a^170*y^240 + a^85*y^237 +
 a^85*y^235 + a^85*y^233 + a^85*y^231 + a^85*y^229 + a^85*y^227 + a^170*y^225 +
 a^85*y^222 + a^85*y^220 + a^85*y^218 + a^85*y^216 + a^85*y^214 + a^85*y^212 +
@@ -181,7 +181,7 @@ a^85*y^42 + a^85*y^40 + a^85*y^38 + a^85*y^36 + a^85*y^34 + a^85*y^32 +
 a^170*y^30 + a^85*y^27 + a^85*y^25 + a^85*y^23 + a^85*y^21 + a^85*y^19 +
 a^85*y^17 + a^170*y^15 + a^85*y^12 + a^85*y^10 + a^85*y^8 + a^85*y^6 + a^85*y^4 + a^85*y^2 + a^170
 
-Representative of class 8 (size 60, PengTan2): a^119*y^254 + a^119*y^252 + a^119*y^250 +
+Representative of class 8 (size 60): a^119*y^254 + a^119*y^252 + a^119*y^250 +
 a^119*y^248 + a^119*y^246 + a^119*y^244 + a^119*y^242 + a^153*y^240 +
 a^119*y^237 + a^119*y^235 + a^119*y^233 + a^119*y^231 + a^119*y^229 +
 a^119*y^227 + a^153*y^225 + a^119*y^222 + a^119*y^220 + a^119*y^218 +
