@@ -1,9 +1,9 @@
 all representatives from the infinite families in dimension 7
 
 
-Representative of class 1 (size 14, F9): y^19
+Representative of class 1 (size 14): y^19
 
-Representative of class 2 (size 1, ZhaHuSun1, QuTanLiGong, PengTan2): y^125 + y^124 + y^123 + y^122 + y^121 +
+Representative of class 2 (size 1): y^125 + y^124 + y^123 + y^122 + y^121 +
 y^120 + y^119 + y^118 + y^117 + y^116 + y^115 + y^114 + y^113 + y^112 + y^111 +
 y^110 + y^109 + y^108 + y^107 + y^106 + y^105 + y^104 + y^103 + y^102 + y^101 +
 y^100 + y^99 + y^98 + y^97 + y^96 + y^95 + y^94 + y^93 + y^92 + y^91 + y^90 +
@@ -16,7 +16,7 @@ y^34 + y^33 + y^32 + y^31 + y^30 + y^29 + y^28 + y^27 + y^26 + y^25 + y^24 +
 y^23 + y^22 + y^21 + y^20 + y^19 + y^18 + y^17 + y^16 + y^15 + y^14 + y^13 +
 y^12 + y^11 + y^10 + y^9 + y^8 + y^7 + y^6 + y^5 + y^4 + y^3 + y^2 + y
 
-Representative of class 3 (size 2, F11): y^126 + y^125 + y^124 + y^123 + y^122 +
+Representative of class 3 (size 2): y^126 + y^125 + y^124 + y^123 + y^122 +
 y^121 + y^120 + y^119 + y^118 + y^117 + y^116 + y^115 + y^114 + y^113 + y^112 +
 y^111 + y^110 + y^109 + y^108 + y^107 + y^106 + y^105 + y^104 + y^103 + y^102 +
 y^101 + y^100 + y^99 + y^98 + y^97 + y^96 + y^95 + y^94 + y^93 + y^92 + y^91 +
@@ -29,7 +29,7 @@ y^35 + y^34 + y^33 + y^32 + y^31 + y^30 + y^29 + y^28 + y^27 + y^26 + y^25 +
 y^24 + y^23 + y^22 + y^21 + y^20 + y^19 + y^18 + y^17 + y^16 + y^15 + y^14 +
 y^13 + y^12 + y^11 + y^10 + y^9 + y^8 + y^7 + y^6 + y^5 + y^4 + y^2 + y
 
-Representative of class 4 (size 2, F11): y^126 + y^125 + y^124 + y^123 + y^122 +
+Representative of class 4 (size 2): y^126 + y^125 + y^124 + y^123 + y^122 +
 y^121 + y^120 + y^119 + y^118 + y^117 + y^116 + y^115 + y^114 + y^113 + y^112 +
 y^111 + y^110 + y^109 + y^108 + y^107 + y^106 + y^105 + y^104 + y^103 + y^102 +
 y^101 + y^100 + y^99 + y^98 + y^97 + y^96 + y^95 + y^94 + y^93 + y^92 + y^91 +
@@ -42,7 +42,7 @@ y^35 + y^34 + y^33 + y^32 + y^31 + y^30 + y^29 + y^28 + y^27 + y^26 + y^25 +
 y^24 + y^23 + y^22 + y^21 + y^20 + y^19 + y^18 + y^17 + y^16 + y^15 + y^14 +
 y^13 + y^12 + y^11 + y^10 + y^9 + y^8 + y^7 + y^6 + y^4 + y^3 + y^2 + y
 
-Representative of class 5 (size 2, F11): y^126 + y^125 + y^124 + y^123 + y^122 +
+Representative of class 5 (size 2): y^126 + y^125 + y^124 + y^123 + y^122 +
 y^121 + y^120 + y^119 + y^118 + y^117 + y^116 + y^115 + y^114 + y^113 + y^112 +
 y^111 + y^110 + y^109 + y^108 + y^107 + y^106 + y^105 + y^104 + y^103 + y^102 +
 y^101 + y^100 + y^99 + y^98 + y^97 + y^96 + y^95 + y^94 + y^93 + y^92 + y^91 +
